@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pushkarkumar8960
+- 👋 Hi, I’m shaurya aditya
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 
